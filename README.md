@@ -9,7 +9,7 @@ The infrastructure is deployed across **multiple Availability Zones** to ensure 
 
 # Architecture Diagram
 
-![AWS Three Tier Architecture](3tier_project_flow.png)
+![AWS VPC Architecture](aws-three-tier-architecture/VPC/vpc.png)
 
 ---
 
@@ -57,7 +57,7 @@ The following AWS services were used in this project:
 ## VPC
 A custom **Virtual Private Cloud (VPC)** is created to isolate the infrastructure.
 
-![AWS Three Tier Architecture](VPC/vpc.jpeg)
+![AWS Three Tier Architecture](aws-three-tier-architecture/VPC/vpc.png)
 ---
 
 ## Public Subnets
