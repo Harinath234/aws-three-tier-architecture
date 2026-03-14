@@ -87,9 +87,8 @@ Features:
 - Private Web Subnets
 - External Load Balancer
 
-![AWS Three Tier Architecture](ASG.jpeg.png)
-![AWS Three Tier Architecture](vpc_resource_map.jpeg)
-![AWS Three Tier Architecture](prod-tier-sg.jpeg)
+![AWS Three Tier Architecture](ASG.png)
+![AWS Three Tier Architecture](VPC/VPC_Resource_Map.png)
 
 ---
 
@@ -116,8 +115,7 @@ Features:
 - Multi-AZ Deployment
 - DB Subnet Group
 
-![AWS Three Tier Architecture](db_instance.jpeg)
-![AWS Three Tier Architecture](db_snet_grp.jpeg)
+![AWS Three Tier Architecture](db_instance.png)
 
 ---
 
@@ -175,7 +173,7 @@ Examples:
 
 # output
 
-![AWS Three Tier Architecture](store_output.jpeg)
+![AWS Three Tier Architecture](store_output/store_output.jpeg)
 
 
 # Learning Outcomes
